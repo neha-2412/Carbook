@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ed4b400.css",
+    "main.js": "/static/js/main.1cbd22d9.js",
+    "static/media/bg_1.jpg": "/static/media/bg_1.fc9d5a258d8bfaa85b39.jpg",
+    "static/media/bg_3.jpg": "/static/media/bg_3.45489be29e5ce0ce70f1.jpg",
+    "static/media/car_9.jpg": "/static/media/car_9.3af067644e8eb22ee870.jpg",
+    "static/media/car_1.jpg": "/static/media/car_1.b31a10389e91b020294b.jpg",
+    "static/media/car_10.jpg": "/static/media/car_10.98f823516a981119ec44.jpg",
+    "static/media/image_4.jpg": "/static/media/image_4.2692af87fc50d2ccbab6.jpg",
+    "static/media/car_6.jpg": "/static/media/car_6.7ed24f2fa92422705f30.jpg",
+    "static/media/car_8.jpg": "/static/media/car_8.fe42c06d3dfa9e1fd824.jpg",
+    "static/media/car_12.jpg": "/static/media/car_12.4103e8a73a09afe1ba13.jpg",
+    "static/media/car_3.jpg": "/static/media/car_3.346b694de477a7e4ba52.jpg",
+    "static/media/car_5.jpg": "/static/media/car_5.c34d0fa9d0fbbb1eb290.jpg",
+    "static/media/image_2.jpg": "/static/media/image_2.aa4d9209f4bdd757b2ab.jpg",
+    "static/media/image_3.jpg": "/static/media/image_3.2c0ad2420fecda85d082.jpg",
+    "static/media/car_7.jpg": "/static/media/car_7.61bc6c3e3d07eccd1161.jpg",
+    "static/media/image_5.jpg": "/static/media/image_5.77bad5e04b799afb5d4f.jpg",
+    "static/media/about.jpg": "/static/media/about.354d92bd14b859bfdbca.jpg",
+    "static/media/car_4.jpg": "/static/media/car_4.8fc6fd0d38bfb36e07d6.jpg",
+    "static/media/image_1.jpg": "/static/media/image_1.6da0ef0f5268d5e92ce3.jpg",
+    "static/media/car_11.jpg": "/static/media/car_11.d52b69574cb16c4f7cdb.jpg",
+    "static/media/car_2.jpg": "/static/media/car_2.31e7c925be90182c5510.jpg",
+    "static/media/image_6.jpg": "/static/media/image_6.66c00e65d053074c8a2e.jpg",
+    "static/media/person_2.jpg": "/static/media/person_2.9295e96dcc2125394ac2.jpg",
+    "static/media/person_1.jpg": "/static/media/person_1.3955ff879ea1569e2a70.jpg",
+    "static/media/person_3.jpg": "/static/media/person_3.375d3a375b39d5998ef3.jpg",
+    "index.html": "/index.html",
+    "main.9ed4b400.css.map": "/static/css/main.9ed4b400.css.map",
+    "main.1cbd22d9.js.map": "/static/js/main.1cbd22d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed4b400.css",
+    "static/js/main.1cbd22d9.js"
+  ]
+}

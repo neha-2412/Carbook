@@ -1,0 +1,129 @@
+*{
+    font-family: sans-serif;
+}
+
+:root{
+    --bs-color1: rgb(1, 210, 142);
+    --bs-color2: rgb(16, 137, 255);
+    --bs-color3: rgb(183, 219, 255);
+    --bs-color4: rgba(0, 0, 0, 0.5);
+}
+.color1{
+    color: var(--bs-color1);
+}
+.color2{
+    color: var(--bs-color2);
+}
+.color3{
+    color: var(--bs-color4);
+}
+.bg-color1{
+    background: var(--bs-color1);
+}
+.bg-color2{
+    background: var(--bs-color2);
+}
+.bg-color3{
+    background: var(--bs-color3);
+}
+
+/* Header */
+#header{
+    z-index: 3;
+}
+.effect1 {
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.effect1 * {
+    box-sizing: border-box;
+    transition: all 0.35s ease;
+}
+.effect1 li {
+    display: inline-block;
+    list-style: outside none none;
+    padding: 0;
+}
+.effect1 a {
+    color: rgba(255, 255, 255, 0.5);
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+}
+.effect1 a:before,
+.effect1 a:after {
+    height: 3px;
+    position: absolute;
+    content: '';
+    transition: all 0.35s ease;
+    background-color: var(--bs-color1);
+    width: 0;
+}
+.effect1 a:before {
+    top: 0;
+    left: 0;
+}
+.effect1 a:after {
+    bottom: 0;
+    right: 0;
+}
+.effect1 a:hover{
+    color: #ffffff;
+}
+.effect1 a:hover:before,
+.effect1 a:hover:after {
+    width: 100%;
+}
+/* Hero */
+#hero{
+    height: 95vh;
+    background:  linear-gradient(rgba(0, 0, 0, 0.4),rgb(0, 0, 0, 0.4)), url(Images/bg_3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+/* Home */
+#home{
+    height: 100vh;
+    background:  linear-gradient(rgba(0, 0, 0, 0.3),rgb(0, 0, 0, 0.3)), url(Images/bg_1.jpg);
+    background-size: cover;
+}
+.v-icon {
+    width: 75px;
+    height: 75px;
+    background: var(--bs-color1);
+    border-radius: 50%;
+}
+.b-img{
+    width: 100%;
+    height: 270px;
+}
+.h-icon{
+    width: 90px;
+    height: 90px;
+}
+/* About */
+#earn{
+    height: 55vh;
+    background:  linear-gradient(rgba(0, 0, 0, 0.4),rgb(0, 0, 0, 0.4)), url(Images/bg_3.jpg);
+    background-size: cover;
+}
+/* Services */
+.s-icon{
+    width: 110px;
+    height: 110px;
+}
+/* Cars */
+.c-img{
+    width: 100%;
+    height: 220px;
+}
+/* Footer */
+.ficon{
+    font-size: 25px;
+    width: 45px;
+    height: 45px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 100%;
+    padding: 11px 12px;
+    margin: 5px 10px;
+}
